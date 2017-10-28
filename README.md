@@ -1,2 +1,2 @@
-# just_for_fun
+# ontology
 just for fun
